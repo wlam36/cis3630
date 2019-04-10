@@ -1,0 +1,20 @@
+.hero{
+	float: left;
+}
+.logo{
+	padding: 20px 200px
+}
+.button{
+	background-color:gray;
+	border-radius: 4px;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+	padding: 25px 200px
+}
+.details{
+	align: center;
+}
